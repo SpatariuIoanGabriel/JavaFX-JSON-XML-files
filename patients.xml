@@ -1,0 +1,20 @@
+<patients>
+  <patient>
+    <name>Alex</name>
+    <email>alex123@gmail.com</email>
+    <disease>Cold</disease>
+    <PatientId>1</PatientId>
+  </patient>
+  <patient>
+    <name>Alice</name>
+    <email>alice456@gmail.com</email>
+    <disease>Cold</disease>
+    <PatientId>2</PatientId>
+  </patient>
+  <patient>
+    <name>Mike</name>
+    <email>mike789@gmail.com</email>
+    <disease>Flu</disease>
+    <PatientId>3</PatientId>
+  </patient>
+</patients>
